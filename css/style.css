@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  display: grid;
+  grid-template-areas: 
+  'w1 w1 w1 w1 w1 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w4 w4 w4 w4 w4 y1 y1 y1 y1 y1'
+  'w1 w1 w1 w1 w1 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2'
+  'w1 w1 w1 w1 w1 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2 w2'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+  'w1 w1 w1 w1 w1'
+}
+
+#w1 {
+  grid-area: w1;
+  background-color: white;
+}
+
+#w2 {
+  grid-area: w2;
+  background-color: white;
+}
+
+#w3 {
+  grid-area: w3;
+  background-color: white;
+}
+
+#w4 {
+  grid-area: w4;
+  background-color: white;
+}
+
+#w5 {
+  grid-area: w5;
+  background-color: white;
+}
+
+#w6 {
+  grid-area: w6;
+  background-color: white;
+}
+
+#w7 {
+  grid-area: w7;
+  background-color: white;
+}
+
+#w8 {
+  grid-area: w8;
+  background-color: white;
+}
+
+#w9 {
+  grid-area: w9;
+  background-color: white;
+}
+
+#w10 {
+  grid-area: w10;
+  background-color: white;
+}
+
+#w11 {
+  grid-area: w11;
+  background-color: white;
+}
+
+#w12 {
+  grid-area: w12;
+  background-color: white;
+}
+
+#w13 {
+  grid-area: w13;
+  background-color: white;
+}
+
+#w14 {
+  grid-area: w14;
+  background-color: white;
+}
+
+#w15 {
+  grid-area: w15;
+  background-color: white;
+}
+
+#w16 {
+  grid-area: w16;
+  background-color: white;
+}
+
+#j1 {
+  grid-area: j1;
+  background-color: yellow;
+}
+
+#j2 {
+  grid-area: j2;
+  background-color: yellow;
+}
+
+#j3 {
+  grid-area: j3;
+  background-color: yellow;
+}
+
+#j4 {
+  grid-area: j4;
+  background-color: yellow;
+}
+
+#j5 {
+  grid-area: j5;
+  background-color: yellow;
+}
+
+#b1 {
+  grid-area: b1;
+  background-color: blue;
+}
+
+#b2 {
+  grid-area: b2;
+  background-color: blue;
+}
+
+#b3 {
+  grid-area: b3;
+  background-color: blue;
+}
+
+#b4 {
+  grid-area: b4;
+  background-color: blue;
+}
+
+#r1 {
+  grid-area: r1;
+  background-color: red;
+}
+
+#r2 {
+  grid-area: r2;
+  background-color: red;
+}
+
+#r3 {
+  grid-area: r3;
+  background-color: red;
+}
+
+#r4 {
+  grid-area: r4;
+  background-color: red;
+}
+
+#r5 {
+  grid-area: r5;
+  background-color: red;
+}
+
+
+
+blue : #0f036c
+jaune : #efbc0e
+blanc: #e6e6e6
+rouge : #c80707
